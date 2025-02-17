@@ -33,9 +33,17 @@ $(function () {
     // TODO 2 - Create Platforms
     createPlatform(450, 400, 90, 120, "darkblue");
     createPlatform(200, 200, 100, 100, "purple");
-    createPlatform(750, 240, 80, 70, "purple");
-    createPlatform(950, 600,200, 90, "darkblue");
+    createPlatform(750, 280, 80, 70, "purple");
+    createPlatform(950, 650,200, 90, "darkblue");
     createPlatform(1200, 150, 150, 100, "purple");
+    createPlatform(100, 700, 80, 70, "purple");
+    createPlatform(150, 600,200, 90, "darkblue");
+    createPlatform(700, 650, 80, 70, "purple");
+    createPlatform(800, 580, 80, 70, "purple");
+    createPlatform(600, 400,100, 80, "darkblue");
+    createPlatform(700, 450,50, 50, "darkblue");
+    createPlatform(850, 200, 80, 70, "purple");
+    createPlatform(1000, 150, 150, 100, "purple");
 
 
     // TODO 3 - Create Collectables
@@ -46,8 +54,8 @@ $(function () {
 
     
     // TODO 4 - Create Cannons
-    createCannon("top", 200, 100);
-    createCannon("right", 300, 500);
+    createCannon("top", 400, 800);
+    createCannon("right", 300, 1100);
 
     
     
